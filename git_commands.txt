@@ -1,1 +1,2 @@
-Python is a programming language
+Python is a programming language.
+It is very simple to understand the basics.
