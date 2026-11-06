@@ -1,0 +1,7 @@
+git config --global user.name "Name"	- Sets your Git username.
+git config --global user.email "email"	- Sets your Git email address.
+git reset filename	- Removes a file from staging.
+git stash	- Temporarily saves changes without committing them.
+git stash pop	- Restores the temporarily saved changes.
+git commit --amend	- Modifies the most recent commit.
+git branch -d branchname	- Deletes a branch.
