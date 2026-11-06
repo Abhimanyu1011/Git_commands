@@ -1,3 +1,11 @@
 Python is a programming language.
-It is very simple to understand the basics.
-Python is necessasry for working with machine learning.
+git --version	- Checks the installed Git version.
+git init	- Creates a new Git repository in a folder.
+git status	- Shows the current status of files.
+git add .	- Adds all modified and new files to staging.
+git add filename	- Adds a specific file to staging.
+git commit -m "message"	- Saves the changes with a message.
+git log	 - Displays the history of commits.
+git diff	 - Shows the changes made to files.
+git rm filename	- Removes a file from Git tracking and the working directory.
+git clone URL	- Downloads a repository from GitHub to your computer.
